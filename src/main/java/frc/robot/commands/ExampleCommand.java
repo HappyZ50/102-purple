@@ -12,7 +12,7 @@ public class ExampleCommand extends Command {
   @SuppressWarnings({"PMD.UnusedPrivateField", "PMD.SingularField"})
   private final XRPDrivetrain m_subsystem;
   private Object resetEncoders;
-//
+
   /**
    * Creates a new ExampleCommand.
    *
